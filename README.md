@@ -1,0 +1,7 @@
+# react-native-apps
+
+## Todo App
+
+## News App 
+- using News API
+- Redux
